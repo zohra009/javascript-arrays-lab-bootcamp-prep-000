@@ -24,7 +24,9 @@ function prependKitten(name) {
   kittens.unshift(...name)
   return kittens
 }
-function 
+function removeLastKitten(name) {
+  
+}
 
 
 
